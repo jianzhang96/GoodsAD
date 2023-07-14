@@ -28,7 +28,7 @@ The dataset are available at [OneDrive](https://mailhfuteducn-my.sharepoint.com/
 |Category|Size (GB)|Link1|Link2|
 |  ----  | ----  |----  |----  |
 |drink_bottle|2.9|[OneDrive](https://mailhfuteducn-my.sharepoint.com/:u:/g/personal/2015216892_mail_hfut_edu_cn/EeoscD4PU4VAoaiTeeGyrgEBRXoibgXiRHACWdRily-i-w?e=YENamB)|[Baidu Disk](https://pan.baidu.com/s/1mnL14Sd5jTWVH7ueA-zStg?pwd=d6mr)|
-|[drink_can]|1.1|[OneDrive](https://mailhfuteducn-my.sharepoint.com/:u:/g/personal/2015216892_mail_hfut_edu_cn/Efs7rgdmVWJKu_eW2RxgswIBr15PdwwoDPnftnLbbjAyAw?e=iMR6Q6)|[Baidu Disk](https://pan.baidu.com/s/1XOsr5Fs0bQ0Ak4_Rhs_aaA?pwd=kg2z)|
+|drink_can|1.1|[OneDrive](https://mailhfuteducn-my.sharepoint.com/:u:/g/personal/2015216892_mail_hfut_edu_cn/Efs7rgdmVWJKu_eW2RxgswIBr15PdwwoDPnftnLbbjAyAw?e=iMR6Q6)|[Baidu Disk](https://pan.baidu.com/s/1XOsr5Fs0bQ0Ak4_Rhs_aaA?pwd=kg2z)|
 |food_bottle|3.0|[OneDrive](https://mailhfuteducn-my.sharepoint.com/:u:/g/personal/2015216892_mail_hfut_edu_cn/ESib3l3xt4NLqEjVq76MykUBqgLsLbeDnSeCMb8YAOKbzg?e=fQDecg)|[Baidu Disk](https://pan.baidu.com/s/1SPuPz6ukOZcIfWIBMg9YhA?pwd=6qrb)|
 |food_box|1.7|[OneDrive](https://mailhfuteducn-my.sharepoint.com/:u:/g/personal/2015216892_mail_hfut_edu_cn/EbZlumiFMxZGi2cjIrE-IGYBxiRFEjEBNNZCCI6frPEQVg?e=rMDeRj)|[Baidu Disk](https://pan.baidu.com/s/1zLTB9jIx-UxgDOqFOezS_Q?pwd=m6y8)|
 |food_package|2.2|[OneDrive](https://mailhfuteducn-my.sharepoint.com/:u:/g/personal/2015216892_mail_hfut_edu_cn/ETInGCW7EOBKoFmh31-Y8PkB17MKP_iaVOhGLRuWyU1EQA?e=vQMcW4)|[Baidu Disk](https://pan.baidu.com/s/183pAoz7pTPwWkv4jE0aPuw?pwd=j9nc)|
