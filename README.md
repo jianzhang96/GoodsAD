@@ -1,6 +1,6 @@
 # GoodsAD
 A Supermarket Goods Dataset for Unsupervised Anomaly Detection and Segmentation.</br>
-Paper: [arXiv 2307.04956](https://arxiv.org/abs/2307.04956)
+Paper: [arXiv 2307.04956](https://arxiv.org/abs/2307.04956v2)
 
 The GoodsAD dataset contains 6124 images with 6 categories of common supermarket goods.  Each category contains multiple goods. All images are acquired with 3000 × 3000 high-resolution. The object locations in the images are not aligned. Most objects are in the center of the images and one image only contains a single object. Most anomalies occupy only a small fraction of image pixels. Both image-level and pixel-level annotations are provided.
 
