@@ -1,6 +1,19 @@
 # GoodsAD
-A Supermarket Goods Dataset for Unsupervised Anomaly Detection and Segmentation.</br>
-Paper: [arXiv 2307.04956](https://arxiv.org/abs/2307.04956v2)
+[IEEE RA-L 2024] A Supermarket Goods Dataset for Unsupervised Anomaly Detection and Segmentation.</br>
+Paper: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10387569) or [arXiv 2307.04956](https://arxiv.org/abs/2307.04956v2)
+
+If you find this work is helpful in your research, please cite:
+````
+@ARTICLE{10387569,
+  author={Zhang, Jian and Ding, Runwei and Ban, Miaoju and Dai, Linhui},
+  journal={IEEE Robotics and Automation Letters},
+  title={PKU-GoodsAD: A Supermarket Goods Dataset for Unsupervised Anomaly Detection and Segmentation},
+  year={2024},
+  volume={9},
+  number={3},
+  pages={2008-2015},
+  doi={10.1109/LRA.2024.3352358}}
+````
 
 The GoodsAD dataset contains 6124 images with 6 categories of common supermarket goods.  Each category contains multiple goods. All images are acquired with 3000 × 3000 high-resolution. The object locations in the images are not aligned. Most objects are in the center of the images and one image only contains a single object. Most anomalies occupy only a small fraction of image pixels. Both image-level and pixel-level annotations are provided.
 
