@@ -17,7 +17,7 @@ If you find this work is helpful in your research, please cite:
 
 The GoodsAD dataset contains 6124 images with 6 categories of common supermarket goods.  Each category contains multiple goods. All images are acquired with 3000 × 3000 high-resolution. The object locations in the images are not aligned. Most objects are in the center of the images and one image only contains a single object. Most anomalies occupy only a small fraction of image pixels. Both image-level and pixel-level annotations are provided.
 
-Each image is named with 6 digits, with the first three digits representing the category of the product and the last three representing the serial number. The dataset format is same as MVTec AD.
+Each image is named with 6 digits, with the first three digits representing the category of the product and the last three representing the serial number. The dataset format is same as [MVTec AD](https://openaccess.thecvf.com/content_CVPR_2019/html/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.html). Our dataset can be similarly loaded with the python code that loads MVTec AD, such as [mvtec.py](https://github.com/DonaldRR/SimpleNet/blob/main/datasets/mvtec.py) and [dataset.py](https://github.com/hq-deng/RD4AD/blob/main/dataset.py).
 
 The dataset is created by Jian Zhang, Miaoju Ban (Open Lab on Human Robot Interaction, Peking University).
 
