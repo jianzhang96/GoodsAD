@@ -47,5 +47,9 @@ The dataset are available at [OneDrive](https://mailhfuteducn-my.sharepoint.com/
 |food_package|2.2|[OneDrive](https://mailhfuteducn-my.sharepoint.com/:u:/g/personal/2015216892_mail_hfut_edu_cn/ETInGCW7EOBKoFmh31-Y8PkB17MKP_iaVOhGLRuWyU1EQA?e=vQMcW4)|[Baidu Disk](https://pan.baidu.com/s/183pAoz7pTPwWkv4jE0aPuw?pwd=j9nc)|
 |cigarette_box|1.4|[OneDrive](https://mailhfuteducn-my.sharepoint.com/:u:/g/personal/2015216892_mail_hfut_edu_cn/EU2Lgyz64k1En435HtDAtVMB1GlzidKCUA_tFLUIr5Wq-g?e=ZxabJ7)|[Baidu Disk](https://pan.baidu.com/s/177e2KPZrU5Z1C2rbei0rTg?pwd=nj7a)|
 
- we also conduct a thorough evaluation of current state-of-the-art unsupervised anomaly detection methods on the GoodsAD dataset. The pretained models are available at [OneDrive](https://mailhfuteducn-my.sharepoint.com/:f:/g/personal/2015216892_mail_hfut_edu_cn/EoITUN0LyvFMpEYG2dteBPEB6OX7PH0FPn0Ar2kSlg-QaA?e=HRyXlb) and [Baidu Disk](https://pan.baidu.com/s/1z-IU2DbEHVa9jTEquNuXtw?pwd=a11j).
+## Pretrained Models
+ We also conduct a thorough evaluation of current state-of-the-art unsupervised anomaly detection methods such as PatchCore and SimpleNet on the GoodsAD dataset. The pretained models are available at:
 <!-- 提取码：a11j -->
+|Link1|Link2|
+|  ----  | ----  |
+|[OneDrive](https://mailhfuteducn-my.sharepoint.com/:f:/g/personal/2015216892_mail_hfut_edu_cn/EoITUN0LyvFMpEYG2dteBPEB6OX7PH0FPn0Ar2kSlg-QaA?e=HRyXlb)|[Baidu Disk](https://pan.baidu.com/s/1z-IU2DbEHVa9jTEquNuXtw?pwd=a11j)|
